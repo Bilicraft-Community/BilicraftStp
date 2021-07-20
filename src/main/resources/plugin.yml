@@ -1,0 +1,8 @@
+name: BilicraftStp
+version: ${project.version}
+main: com.bilicraft.bilicraftstp.BilicraftStp
+api-version: 1.17
+commands:
+  stp:
+    description: teleport self to target server
+    usage: /stp <server>
